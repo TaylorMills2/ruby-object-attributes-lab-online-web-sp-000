@@ -13,6 +13,7 @@ def name=(name)
   def job 
     @job
   end 
+  
 end
 
 
