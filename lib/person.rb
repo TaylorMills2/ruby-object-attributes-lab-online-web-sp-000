@@ -27,5 +27,4 @@ class Record
   def genre
     @genre 
   end 
-  
 end 
