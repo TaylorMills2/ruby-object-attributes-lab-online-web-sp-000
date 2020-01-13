@@ -18,13 +18,3 @@ end
 
 
 
-class Record
-  
-  def genre=(records_genre)
-    @grenre = records_genre
-  end 
-  
-  def genre
-    @genre 
-  end 
- 
