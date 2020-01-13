@@ -16,7 +16,7 @@ def name=(name)
   
 end
 
-# Notes and practice 
+
 
 class Record
   
